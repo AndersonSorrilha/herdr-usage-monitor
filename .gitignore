@@ -1,0 +1,10 @@
+# Written by gpui-shell on every run from the runtime itself; a committed copy is stale.
+mods/usage-monitor/gpui-kit.d.ts
+# Written by Claude Code when it loads the plugin (its own .gitignore inside).
+.claude-plugin/types/
+# OS and editor leftovers.
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.log

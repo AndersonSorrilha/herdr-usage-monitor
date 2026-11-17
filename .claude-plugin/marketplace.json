@@ -1,0 +1,14 @@
+{
+  "name": "herdr",
+  "owner": { "name": "AndersonSorrilha" },
+  "metadata": {
+    "description": "Mods that pair with Herdr: the usage-bridge publishes Claude Code's rate-limit windows for the Herdr usage-monitor mod."
+  },
+  "plugins": [
+    {
+      "name": "usage-bridge",
+      "source": "./claude-mod/usage-bridge",
+      "description": "Writes the account's rate-limit windows to ~/.claude/usage-monitor/rate-limits.json after every measurement, for the Herdr usage-monitor mod."
+    }
+  ]
+}

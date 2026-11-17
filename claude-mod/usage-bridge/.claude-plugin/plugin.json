@@ -1,0 +1,5 @@
+{
+  "name": "usage-bridge",
+  "version": "0.1.0",
+  "description": "Writes the account's rate-limit windows to ~/.claude/usage-monitor/rate-limits.json after every measurement, for the Herdr usage-monitor mod."
+}

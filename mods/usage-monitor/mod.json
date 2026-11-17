@@ -1,0 +1,5 @@
+{
+  "place": "none",
+  "title": "Usage monitor",
+  "overlay": { "kind": "popup", "width": 400, "height": 630 }
+}
